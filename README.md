@@ -6,7 +6,7 @@
 
 <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white">
 
-> Um aplicativo, integrado com a API proprietária da Disney Company, focado em um showcase dos personagens pertencentes ao universo disney
+> Um aplicativo, integrado com a API proprietária da Disney Company, focado em um showcase dos personagens pertencentes ao universo disney.
 
 ## 🎥 DEMO
 ./assets/demo.mp4
@@ -51,16 +51,16 @@ see the GitHub documentation on [how to create a pull request](https://help.gith
 <table>
   <tr>
     <td align="center">
-      <a href="link do github do participante">
-        <img src="link da imagem do github do participante" width="100px;"/><br>
+      <a href="https://github.com/henry-1961">
+        <img src="https://avatars.githubusercontent.com/u/82218299?v=4" width="100px;"/><br>
         <sub>
           <b>Henrique</b>
         </sub>
       </a>
     </td>
     <td align="center">
-      <a href="link do github do participante">
-        <img src="link da imagem do github do participante" width="100px;"/><br>
+      <a href="https://github.com/AnaCecilia2">
+        <img src="https://avatars.githubusercontent.com/u/132697963?v=4" width="100px;"/><br>
         <sub>
           <b>Ana Cecília</b>
         </sub>
