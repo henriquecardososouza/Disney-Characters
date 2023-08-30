@@ -9,7 +9,7 @@
 > Um aplicativo, integrado com a API proprietária da Disney Company, focado em um showcase dos personagens pertencentes ao universo disney.
 
 ## 🎥 DEMO
-./assets/demo.mp4
+[Vídeo de Demonstração](https://www.youtube.com/watch?v=SVdNMvYFlwE)
 
 ## 👩🏾‍💻 Technologies
 - [x] UIKit
